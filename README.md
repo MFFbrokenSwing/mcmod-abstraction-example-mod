@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.org/MFFbrokenSwing/mcmod-abstraction-example-mod.svg?branch=master)](https://travis-ci.org/MFFbrokenSwing/mcmod-abstraction-example-mod)
+# Example Mod for my MC-Mod abstraction layer
